@@ -7,7 +7,7 @@ Este repositorio gestiona el inventario de un club de videojuegos retro, con un 
 ## Instrucciones de instalación
 1. Clona el repositorio: 
 ```bash
-git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
+git clone https://github.com/RaulGarCan/ClubVideojuegosRetro
 ```
 2. Abre el archivo `inventario_juegos.txt` para ver el listado actual de juegos.
 
