@@ -18,15 +18,14 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 ## Página Oficial
 
-[Visita nuestra página](https://github.com/tu_usuario/ClubVideojuegosRetro)
+[Visita nuestra página](https://github.com/RaulGarCan)
 
 ## Inventario
 
-| Juego                 | Plataforma   | Copias |
-|-----------------------|--------------|--------|
-| Super Mario Bros      | NES          | 2      |
-| Street Fighter II     | SNES         | 3      |
-| Sonic the Hedgehog    | Sega Genesis | 1      |
+| Juego           | Plataforma   | Copias |
+|-----------------|--------------|--------|
+| Elden Ring      | PC           | 1      |
+| Balatro         | Multi        | 2      |
 
 ### Juegos
 
@@ -34,8 +33,10 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 ![Elden Ring](imgs/elden-ring-logo.jpg)
 
-![Elden Ring](imgs/elden-ring.jpg)
+![Elden Ring In-Game](imgs/elden-ring.jpg)
+
+#### Balatro
 
 ![Balatro](imgs/balatro-logo.jpg)
 
-![Balatro](imgs/balatro.jpg)
+![Balatro In-Game](imgs/balatro.jpg)
