@@ -31,7 +31,7 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 #### Elden Ring
 
-![Elden Ring]<img src="imgs/elden-ring-logo.jpg" width="100%">
+<img src="imgs/elden-ring-logo.jpg" width="100%">
 
 ![Elden Ring In-Game](imgs/elden-ring.jpg)
 
@@ -41,6 +41,6 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 ![Balatro](imgs/balatro-logo.jpg)
 
-![Balatro In-Game](imgs/balatro.jpg)
+<img src="imgs/balatro.jpg" width="100%">
 
 [Gameplay](https://www.youtube.com/watch?v=obhqsZZBC8Q&list=PLXJogFfVQe0V8SILEouIXiTEP2IuQA0oU)
