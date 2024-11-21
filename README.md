@@ -36,9 +36,9 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 ![Elden Ring In-Game](imgs/elden-ring.jpg)
 
 Gameplay
-<img src="imgs/balatro.jpg" width="100%">
-    <a href="https://www.youtube.com/watch?v=PN7YFKHOR9Y&list=PL7RtZMiaOk8gdRf130w4gFYyhstL-5VRh">
-</img>
+<a href="https://www.youtube.com/watch?v=PN7YFKHOR9Y&list=PL7RtZMiaOk8gdRf130w4gFYyhstL-5VRh">
+    <img src="imgs/balatro.jpg" width="100%">
+</a>
 
 #### Balatro
 
