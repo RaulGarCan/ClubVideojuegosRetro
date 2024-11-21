@@ -45,6 +45,6 @@ Gameplay
 ![Balatro](imgs/balatro-logo.jpg)
 
 Gameplay
-<img src="imgs/balatro.jpg" width="100%">
-    <a href="https://www.youtube.com/watch?v=obhqsZZBC8Q&list=PLXJogFfVQe0V8SILEouIXiTEP2IuQA0oU">
-</img>
+<a href="https://www.youtube.com/watch?v=obhqsZZBC8Q&list=PLXJogFfVQe0V8SILEouIXiTEP2IuQA0oU">
+    <img src="imgs/balatro.jpg" width="100%">
+</a>
