@@ -46,5 +46,3 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 <a href="https://www.youtube.com/watch?v=obhqsZZBC8Q&list=PLXJogFfVQe0V8SILEouIXiTEP2IuQA0oU">
     <img src="imgs/balatro.jpg" width="100%">
 </a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/obhqsZZBC8Q?si=FaQaTLQBWhIyhsFW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
