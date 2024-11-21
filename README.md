@@ -31,7 +31,7 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 #### Elden Ring
 
-![Elden Ring]<img src="https://github.com/favicon.ico" width="48">
+![Elden Ring]<img src="imgs/elden-ring-logo.jpg" width="100%">
 
 ![Elden Ring In-Game](imgs/elden-ring.jpg)
 
