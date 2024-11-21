@@ -29,7 +29,7 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 ### Juegos
 
-#### - Elden Ring
+#### Elden Ring
 
 <img src="imgs/elden-ring-logo.jpg" width="100%">
 
@@ -37,7 +37,7 @@ git clone https://github.com/tu_usuario/ClubVideojuegosRetro.git
 
 [Gameplay](https://www.youtube.com/watch?v=PN7YFKHOR9Y&list=PL7RtZMiaOk8gdRf130w4gFYyhstL-5VRh)
 
-#### - Balatro
+#### Balatro
 
 ![Balatro](imgs/balatro-logo.jpg)
 
